@@ -29,14 +29,14 @@ if __name__ == '__main__':
     anggawidiarta = myProfile()
 ```
 
-## <img src="/assets/icons8-python.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
 - **Languages**:
 <br>
 
-  <img src="https://icons8.com/icon/Rc0Xn5AtE8kX/python">
+  <img src="https://icons8.com/icon/Q5FXgRZybr2A/html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page">
 
 - **Framework & Technologies**:
   <br>
