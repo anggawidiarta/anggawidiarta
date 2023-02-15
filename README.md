@@ -9,7 +9,8 @@
 
 ---
 
-<p align="center">Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me</p>
+<p align="center">
+Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me</p>
 <br>
 
 ```python
@@ -42,10 +43,12 @@ if __name__ == '__main__':
   <img src="assets/icons8-python.svg">
   <img src="assets/icons8-c++.svg">
   <img src="assets/icons8-java.svg">
+  <img src="assets/icons8-r-project.svg">
 
 - **Framework & Technologies**:
 
   <img src="assets/icons8-bootstrap.svg">
+  <img src="assets/bulma-1331550887142711895.png">
   <img src="assets/icons8-django.svg">
   <img src="assets/icons8-node-js.svg">
   <img src="assets/icons8-codeigniter.svg">
@@ -61,6 +64,7 @@ if __name__ == '__main__':
   <img src="assets/icons8-jupyter.svg">
   <img src="assets/icons8-android-studio.svg">
   <img src="assets/icons8-visual-studio-code-2019.svg">
+  <img src="assets/icons8-stack-overflow-is-a-question-and-answer-site-for-professional.svg">
 
 ## My **Statistics**
 
