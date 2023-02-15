@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/> <a href="https://www.instagram.com/anggawdyrta"><img src="https://img.shields.io/badge/-AnggaWidiarta-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"/></a>
+Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><img src="https://img.shields.io/badge/Interest%3A-Web%20Dev%2C%20System%20Design%2C%20Backend%20Dev-blue"/> <img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/> <a href="https://www.instagram.com/anggawdyrta"><img src="https://img.shields.io/badge/-AnggaWidiarta-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"/></a> 
 </p>
 
 ```python
@@ -39,7 +39,7 @@ if __name__ == '__main__':
   <img src="assets/icons8-html-5.svg">
   <img src="assets/icons8-css3.svg">
   <img src="assets/icons8-javascript.svg">
-  <img src="assets/icons8-kotlin-a-cross-platform,-statically-typed,-general-purpose-programming-language-with-type-inference.svg">
+  <img src="assets/icons8-kotlin-a-cross-platform,-statically-typed,-general-purpose-programming-language-with-type-inference%20(2).svg">
   <img src="assets/icons8-python.svg">
   <img src="assets/icons8-c++.svg">
   <img src="assets/icons8-java.svg">
