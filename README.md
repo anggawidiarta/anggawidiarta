@@ -10,7 +10,8 @@
 ---
 
 <p align="center">
-Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/></p>
+Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/> <a href="https://www.instagram.com/anggawdyrta"><img src="https://img.shields.io/badge/-AnggaWidiarta-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"/></a>
+</p>
 
 ```python
 class myProfile():
