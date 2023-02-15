@@ -35,7 +35,6 @@ if __name__ == '__main__':
 
 - **Languages**:
 <br>
-
   <img src="assets/icons8-html-5.svg">
   <img src="assets/icons8-css3.svg">
   <img src="assets/icons8-javascript.svg">
@@ -46,21 +45,22 @@ if __name__ == '__main__':
 
 - **Framework & Technologies**:
 <br>
-
   <img src="assets/icons8-bootstrap.svg">
   <img src="assets/icons8-django.svg">
   <img src="assets/icons8-node-js.svg">
   <img src="assets/icons8-codeigniter.svg">
   <img src="assets/icons8-nodejs.svg">
+  <img src="assets/icons8-tensorflow.svg">
 
 - **Softwares & Tools**:
 <br>
-
   <img src="assets/icons8-microsoft-excel.svg">
   <img src="assets/icons8-microsoft-visio.svg">
   <img src="assets/icons8-tableau-software.svg">
   <img src="assets/icons8-anaconda.svg">
   <img src="assets/icons8-jupyter.svg">
+  <img src="assets/icons8-android-studio.svg">
+  <img src="assets/icons8-visual-studio-code-2019.svg">
 
 ## My **Statistics**
 
