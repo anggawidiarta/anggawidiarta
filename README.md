@@ -1,6 +1,6 @@
 <p>
 <div align="center">
-  <img src="assets/Main-Logo.svg" width="300" height="300">
+  <img src="assets/output-onlinegiftools.gif" width="300" height="300">
 </div>
 </p>
 <h1 align="center">
