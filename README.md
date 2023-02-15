@@ -34,7 +34,7 @@ if __name__ == '__main__':
 <p align="center">
 
 - **Languages**:
-<br>
+
   <img src="assets/icons8-html-5.svg">
   <img src="assets/icons8-css3.svg">
   <img src="assets/icons8-javascript.svg">
@@ -44,7 +44,7 @@ if __name__ == '__main__':
   <img src="assets/icons8-java.svg">
 
 - **Framework & Technologies**:
-<br>
+
   <img src="assets/icons8-bootstrap.svg">
   <img src="assets/icons8-django.svg">
   <img src="assets/icons8-node-js.svg">
@@ -53,7 +53,7 @@ if __name__ == '__main__':
   <img src="assets/icons8-tensorflow.svg">
 
 - **Softwares & Tools**:
-<br>
+
   <img src="assets/icons8-microsoft-excel.svg">
   <img src="assets/icons8-microsoft-visio.svg">
   <img src="assets/icons8-tableau-software.svg">
