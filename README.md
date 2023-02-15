@@ -64,6 +64,7 @@ if __name__ == '__main__':
   <img src="assets/icons8-jupyter.svg">
   <img src="assets/icons8-android-studio.svg">
   <img src="assets/icons8-visual-studio-code-2019.svg">
+  <img src="assets/icons8-power-bi.svg">
   <img src="assets/icons8-stack-overflow-is-a-question-and-answer-site-for-professional.svg">
 
 ## My **Statistics**
