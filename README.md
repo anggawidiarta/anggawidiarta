@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
 <p align="left">
   <a href="https://github.com/anggawidiarta">
-  <img src="https://github-readme-stats.vercel.app/api?username=anggawidiarta&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=anggawidiarta&show_icons=true&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
