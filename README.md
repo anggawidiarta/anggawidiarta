@@ -36,21 +36,32 @@ if __name__ == '__main__':
 - **Languages**:
 <br>
 
-  <img src="https://icons8.com/icon/Q5FXgRZybr2A/html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page">
-
+  <img src="assets/icons8-html-5.svg">
+  <img src="assets/icons8-css3.svg">
+  <img src="assets/icons8-javascript.svg">
+  <img src="assets/icons8-kotlin-a-cross-platform,-statically-typed,-general-purpose-programming-language-with-type-inference.svg">
+  <img src="assets/icons8-python.svg">
+  <img src="assets/icons8-c++.svg">
+  <img src="assets/icons8-java.svg">
+  
 - **Framework & Technologies**:
-  <br>
-
-   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
+<br>
+  
+  <img src="assets/icons8-anaconda.svg">
+  <img src="assets/icons8-bootstrap.svg">
+  <img src="assets/icons8-django.svg">
+  <img src="assets/icons8-jupyter.svg">
+  <img src="assets/icons8-node-js.svg">
+  <img src="assets/icons8-codeigniter.svg">
+  <img src="assets/icons8-nodejs.svg">
 
 - **Softwares & Tools**:
+<br>
 
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 
 ## My **Statistics**
 
