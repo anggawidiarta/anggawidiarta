@@ -10,8 +10,7 @@
 ---
 
 <p align="center">
-Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me</p>
-<br>
+Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/></p>
 
 ```python
 class myProfile():
