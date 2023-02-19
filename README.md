@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><a href="#"><img src="https://img.shields.io/badge/Interest%3A-Web%20Dev%2C%20System%20Design%2C%20Backend%20Dev-blue"/> <img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/></a>  <a href="https://www.instagram.com/anggawdyrta" target="_blank"><img src="https://img.shields.io/badge/-AnggaWidiarta-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"/></a> 
+Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><a href="#"><img src="https://img.shields.io/badge/Interest%3A-Web%20Dev%2C%20System%20Design%2C%20Backend%20Dev-blue"/> <img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/></a>  <br><a href="https://www.instagram.com/anggawdyrta" target="_blank"><img src="https://img.shields.io/badge/-AnggaWidiarta-c13584?style=flat&labelColor=white&logo=instagram"/></a> <a href="https://www.hackerrank.com/anggawidiarta" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-c13584?style=flat&labelColor=white&logo=HackerRank"/></a>
 </p>
 
 ```python
@@ -52,7 +52,6 @@ if __name__ == '__main__':
   <img src="assets/icons8-django.svg">
   <img src="assets/icons8-node-js.svg">
   <img src="assets/icons8-codeigniter.svg">
-  <img src="assets/icons8-nodejs.svg">
   <img src="assets/icons8-tensorflow.svg">
 
 - **Softwares & Tools**:
