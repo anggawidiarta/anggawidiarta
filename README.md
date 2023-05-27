@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><a href="#"><img src="https://img.shields.io/badge/Interest%3A-Web%20Dev%2C%20System%20Design%2C%20Backend%20Dev-blue"/> <img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/></a>  <br><a href="https://www.instagram.com/anggawdyrta" target="_blank"><img src="https://img.shields.io/badge/-AnggaWidiarta-c13584?style=flat&labelColor=white&logo=instagram"/></a> <a href="https://www.hackerrank.com/anggawidiarta" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-c13584?style=flat&labelColor=white&logo=HackerRank"/></a>
+Hello, Welcome To My Profile, Here Will Be Presented Some Brief Description About Me <br><br><a href="#"><img src="https://img.shields.io/badge/Interest%3A-Web%20Dev%2C%20System%20Design-blue"/> <img src="https://img.shields.io/badge/Focus%3A-Machine%20Learning-orange"/></a>  <br><a href="https://www.instagram.com/anggawdyrta" target="_blank"><img src="https://img.shields.io/badge/-AnggaWidiarta-c13584?style=flat&labelColor=white&logo=instagram"/></a> <a href="https://www.hackerrank.com/anggawidiarta" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-c13584?style=flat&labelColor=white&logo=HackerRank"/></a> <a href="https://leetcode.com/anggawidiarta/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-c13584?style=flat&labelColor=white&logo=LeetCode"/></a>
 </p>
 
 ```python
@@ -30,7 +30,7 @@ if __name__ == '__main__':
     anggawidiarta = myProfile()
 ```
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
@@ -64,14 +64,4 @@ if __name__ == '__main__':
   <img src="assets/icons8-android-studio.svg">
   <img src="assets/icons8-visual-studio-code-2019.svg">
   <img src="assets/icons8-power-bi.svg">
-  <img src="assets/icons8-stack-overflow-is-a-question-and-answer-site-for-professional.svg">
-
-## My **Statistics**
-
-<p align="left">
-  <a href="https://github.com/anggawidiarta">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=anggawidiarta&show_icons=true&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-
----
+  <img src="assets/icons8-stack-overflow-is-a-question-and-answer-site-for-professional.svg"> -->
